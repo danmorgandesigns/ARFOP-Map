@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>Alternate Icons</key>
+		<dict>
+			<key>AppFOA</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppFOA</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<true/>
+			</dict>
+			<key>AppFOF</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppFOF</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
