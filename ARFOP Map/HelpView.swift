@@ -84,10 +84,9 @@ struct HelpView: View {
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
                     Button(action: { dismiss() }) {
-                        Button(action: { dismiss() }) {
-                              Image(systemName: "xmark")
-                          }
+                        Image(systemName: "xmark")
                     }
+                    .accessibilityLabel("Close")
                 }
             }
         }
