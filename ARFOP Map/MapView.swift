@@ -98,6 +98,14 @@ struct MapView: View {
     let initialRegion: MKCoordinateRegion?
     
     // MARK: - Properties
+
+    @StateObject private var connectivityManager = ConnectivityManager()
+
+    @StateObject private var tileManager = MapTileManager()
+ 
+    @State private var showCachingProgress = false
+    
+    
     /// Location manager provides current location and handles permissions
     @StateObject private var locationManager = LocationManager()
     
@@ -139,6 +147,29 @@ struct MapView: View {
             mapView
             errorOverlay
             locationPermissionOverlay
+            
+            // Add the caching progress overlay here
+            if tileManager.isCaching {
+                VStack {
+                    Spacer()
+                    VStack(spacing: 8) {
+                        HStack {
+                            ProgressView()
+                                .scaleEffect(0.8)
+                            Text("Caching map tiles...")
+                                .font(.caption)
+                            Spacer()
+                        }
+                        
+                        ProgressView(value: tileManager.cachingProgress)
+                            .progressViewStyle(LinearProgressViewStyle())
+                    }
+                    .padding()
+                    .background(.regularMaterial)
+                    .cornerRadius(8)
+                    .padding()
+                }
+            }
         }
         .navigationTitle("Map")
         .navigationBarTitleDisplayMode(.inline)
@@ -306,6 +337,12 @@ struct MapView: View {
         locationManager.requestLocationPermission()
         // Load POI data
         poiManager.loadPOIsFromBundle() // Load from JSON/JS file
+ 
+        // Start intelligent caching when we have good connectivity
+        if connectivityManager.hasStrongConnection {
+            startOpportunisticCaching()
+        }
+        
         
         // Load trails with a small delay to prevent simultaneous operations
         Task {
@@ -329,6 +366,18 @@ struct MapView: View {
             )
         }
     }
+
+    private func startOpportunisticCaching() {
+        // Cache tiles for your key regions when connectivity is good
+        let keyRegions = [
+            MKCoordinateRegion(center: MapConstants.arboretumCenter, latitudinalMeters: 1000, longitudinalMeters: 1000),
+            MKCoordinateRegion(center: MapConstants.farmCenter, latitudinalMeters: 800, longitudinalMeters: 800),
+            MKCoordinateRegion(center: MapConstants.artsCenter, latitudinalMeters: 2000, longitudinalMeters: 2000)
+        ]
+        
+        tileManager.prefetchTilesForRegions(keyRegions)
+    }
+    
     
     /// Centers the map camera on the specified coordinate with appropriate zoom level
     private func centerMapOnCoordinate(_ coordinate: CLLocationCoordinate2D) {
@@ -345,11 +394,25 @@ struct MapView: View {
     
     /// Cycles between satellite and standard map styles
     private func toggleMapStyle() {
+        // Check connectivity before switching to satellite
+        if currentStyleIndex == 0 && !connectivityManager.hasStrongConnection {
+            // Show alert about satellite requiring internet
+            showConnectivityAlert()
+            return
+        }
+        
         withAnimation(.easeInOut(duration: 0.5)) {
             currentStyleIndex = (currentStyleIndex + 1) % mapStyles.count
             mapStyle = mapStyles[currentStyleIndex]
         }
     }
+    
+    // Add connectivity alert method
+    private func showConnectivityAlert() {
+        // You can implement this as an alert or banner
+        print("⚠️ Satellite imagery requires internet connection")
+    }
+    
     
     /// Toggles user location visibility and optionally centers the map
     private func toggleUserLocation() {

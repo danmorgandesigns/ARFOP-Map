@@ -15,9 +15,9 @@ struct LandingView: View {
     @State private var showHelp = false
     
     // Predefined coordinates for each image tap
-    private let arboretumCenter = CLLocationCoordinate2D(latitude: 38.79594, longitude: -94.69087)
-    private let farmCenter = CLLocationCoordinate2D(latitude: 38.87695, longitude: -94.70326)
-    private let artsCenter = CLLocationCoordinate2D(latitude: 38.94148, longitude: -94.66798)
+    private let arboretumCenter = MapConstants.arboretumCenter
+    private let farmCenter = MapConstants.farmCenter
+    private let artsCenter = MapConstants.artsCenter
     
     var body: some View {
         ZStack {
