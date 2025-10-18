@@ -14,10 +14,10 @@
             filePath = "ARFOP Map/MapView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "465"
-            endingLineNumber = "465"
-            landmarkName = "MapView"
-            landmarkType = "14">
+            startingLineNumber = "517"
+            endingLineNumber = "517"
+            landmarkName = "loadTrailRoutes()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -30,9 +30,9 @@
             filePath = "ARFOP Map/MapView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "467"
-            endingLineNumber = "467"
-            landmarkName = "firstNonEmptyString(in:keys:)"
+            startingLineNumber = "519"
+            endingLineNumber = "519"
+            landmarkName = "loadTrailRoutes()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -40,14 +40,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "4BA7EF88-964C-4F10-A75D-EBB9BE6F958F"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ARFOP Map/MapView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "968"
-            endingLineNumber = "968"
+            startingLineNumber = "1065"
+            endingLineNumber = "1065"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>

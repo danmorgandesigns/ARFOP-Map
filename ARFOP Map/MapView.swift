@@ -8,6 +8,7 @@
 import SwiftUI
 import MapKit
 import Combine
+import Network
 
 // MARK: - POI Data Models
 /// Represents a Point of Interest in the arboretum
@@ -102,8 +103,18 @@ struct MapView: View {
     @StateObject private var connectivityManager = ConnectivityManager()
 
     @StateObject private var tileManager = MapTileManager()
- 
+    @StateObject private var networkStatus = NetworkStatus.shared
+
     @State private var showCachingProgress = false
+    @State private var showConnectivityBanner: Bool = false
+    @State private var connectivityBannerKind: OfflineBannerView.Kind = .constrained
+    @State private var lastConnectivityChange: Date = .distantPast
+
+    // DEBUG: Toggle to show a small on-screen HUD of connectivity state.
+    // Set to false to hide the HUD. Wrapped in #if DEBUG for safety.
+    #if DEBUG
+    @State private var showDebugConnectivityHUD: Bool = true
+    #endif
     
     
     /// Location manager provides current location and handles permissions
@@ -148,6 +159,43 @@ struct MapView: View {
             errorOverlay
             locationPermissionOverlay
             
+            #if DEBUG
+            if showDebugConnectivityHUD {
+                VStack {
+                    Spacer()
+                    HStack {
+                        Spacer()
+                        Text("Net: \(debugConnectivityText(for: networkStatus.state))")
+                            .font(.caption2)
+                            .padding(.horizontal, 10)
+                            .padding(.vertical, 6)
+//                            .background(.ultraThinMaterial)
+                            .background(.black.opacity(0.25))
+                            .foregroundStyle(.white)         // white text
+                            .clipShape(Capsule())
+                            .shadow(radius: 1)
+                            .accessibilityHidden(true)
+                    }
+                    .padding([.bottom, .trailing], 10)
+                }
+                .transition(.opacity)
+            }
+            #endif
+            
+            // Connectivity banner
+            if showConnectivityBanner {
+                VStack {
+                    HStack {
+                        Spacer()
+                        OfflineBannerView(kind: connectivityBannerKind)
+                            .padding(.top, 8)
+                        Spacer()
+                    }
+                    Spacer()
+                }
+                .transition(.opacity)
+            }
+            
             // Add the caching progress overlay here
             if tileManager.isCaching {
                 VStack {
@@ -181,6 +229,9 @@ struct MapView: View {
         }
         .onChange(of: showTrailRoutes) { _, _ in
             saveTrailVisibilityPreference()
+        }
+        .onReceive(networkStatus.$state.removeDuplicates()) { newState in
+            handleConnectivityChange(newState)
         }
     }
     
@@ -459,6 +510,7 @@ struct MapView: View {
             print("⚠️ No trails were loaded successfully")
         } else {
             print("✅ Successfully loaded \(trailRoutes.count) total trail segment(s)")
+            MitigationLogger.log(.overlaysLoaded)
         }
     }
 
@@ -685,6 +737,53 @@ struct MapView: View {
     private func saveTrailVisibilityPreference() {
         UserDefaults.standard.set(showTrailRoutes, forKey: "show_trail_routes")
     }
+    
+    private func handleConnectivityChange(_ state: NetworkStatus.State) {
+        let now = Date()
+        // Debounce rapid changes
+        if now.timeIntervalSince(lastConnectivityChange) < 1.0 { return }
+        lastConnectivityChange = now
+
+        switch state {
+        case .online:
+            // Hide banner when back online
+            withAnimation { showConnectivityBanner = false }
+        case .constrained:
+            // Switch to lighter style if currently satellite
+            if currentStyleIndex == 0 { // satellite index
+                withAnimation(.easeInOut(duration: 0.3)) {
+                    currentStyleIndex = 1
+                    mapStyle = mapStyles[currentStyleIndex]
+                }
+                MitigationLogger.log(.switchedToLightStyle)
+            }
+            connectivityBannerKind = .constrained
+            withAnimation { showConnectivityBanner = true }
+            MitigationLogger.log(.constrainedBannerShown)
+        case .offline:
+            // Switch to lighter style if currently satellite
+            if currentStyleIndex == 0 {
+                withAnimation(.easeInOut(duration: 0.3)) {
+                    currentStyleIndex = 1
+                    mapStyle = mapStyles[currentStyleIndex]
+                }
+                MitigationLogger.log(.switchedToLightStyle)
+            }
+            connectivityBannerKind = .offline
+            withAnimation { showConnectivityBanner = true }
+            MitigationLogger.log(.offlineBannerShown)
+        }
+    }
+
+    #if DEBUG
+    private func debugConnectivityText(for state: NetworkStatus.State) -> String {
+        switch state {
+        case .online: return "Online"
+        case .constrained: return "Constrained"
+        case .offline: return "Offline"
+        }
+    }
+    #endif
 }
 
 // MARK: - POI Annotation View
@@ -828,12 +927,11 @@ struct POIDetailView: View {
                 .toolbar {
                     ToolbarItem(placement: .topBarLeading) {
                         Button(action: { dismiss() }) {
-                            Button(action: { dismiss() }) {
-                                  Image(systemName: "xmark")
-                              }
+                            Image(systemName: "xmark")
                         }
+                        .accessibilityLabel("Close")
                     }
-                    }
+                }
             }
         }
     }
@@ -938,12 +1036,11 @@ struct TrailDetailView: View {
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
                     Button(action: { dismiss() }) {
-                        Button(action: { dismiss() }) {
-                              Image(systemName: "xmark")
-                          }
+                        Image(systemName: "xmark")
                     }
+                    .accessibilityLabel("Close")
                 }
-                }
+            }
         }
     }
 }
@@ -1031,12 +1128,11 @@ struct CategoryFilterView: View {
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
                     Button(action: { dismiss() }) {
-                        Button(action: { dismiss() }) {
-                              Image(systemName: "xmark")
-                          }
+                        Image(systemName: "xmark")
                     }
+                    .accessibilityLabel("Close")
                 }
-                }
+            }
         }
     }
     
