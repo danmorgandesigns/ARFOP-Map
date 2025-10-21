@@ -30,7 +30,7 @@ class POIDataManager: ObservableObject {
     }
     
     /// Load POIs from a JSON file in the app bundle
-    func loadPOIsFromBundle(filename: String = "arfop_pois") {
+    func loadPOIsFromBundle(filename: String = "pois") {
         // Load user preferences for visible categories
         loadVisibleCategories()
         
@@ -61,7 +61,7 @@ class POIDataManager: ObservableObject {
     }
     
     /// Load POIs from a CSV file
-    func loadPOIsFromCSV(filename: String = "arfop_pois") {
+    func loadPOIsFromCSV(filename: String = "pois") {
         guard let url = Bundle.main.url(forResource: filename, withExtension: "csv"),
               let content = try? String(contentsOf: url, encoding: .utf8) else {
             print("Could not find \(filename).csv in app bundle")
@@ -112,13 +112,13 @@ class POIDataManager: ObservableObject {
         }
         
         if let encoded = try? encoder.encode(poiData) {
-            UserDefaults.standard.set(encoded, forKey: "arfop_pois")
+            UserDefaults.standard.set(encoded, forKey: "pois")
         }
     }
     
     /// Load POIs from UserDefaults
     func loadPOIsFromUserDefaults() {
-        guard let data = UserDefaults.standard.data(forKey: "arfop_pois") else {
+        guard let data = UserDefaults.standard.data(forKey: "pois") else {
             loadSampleData()
             return
         }

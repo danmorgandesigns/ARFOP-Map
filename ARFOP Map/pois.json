@@ -1,0 +1,1952 @@
+[
+    {
+      "latitude" : 38.79941702539427,
+      "name" : "Stone Bench",
+      "category" : "Seat",
+      "description" : "",
+      "longitude" : -94.68813246276322,
+      "imageURL" : ""
+    },
+    {
+      "name": "Remembering",
+      "latitude": 38.91260180287318,
+      "longitude": -94.67736190283405,
+      "category": "Art Installation",
+      "description": "\"Remembering\" by Charles Goslin. Goslin created this larger than life soldier and field cross to honor those who served in the Korean War. Media: Bronze. Dedicated November 11, 2008",
+      "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/remembering.jpg"
+    },
+    {
+      "name": "William B. Strang, Jr",
+      "latitude": 38.98382570814812,
+      "longitude": -94.67221801481487,
+      "category": "Art Installation",
+      "description": "William B. Strang Jr. (1857–1921) was an American railroad magnate who platted Overland Park, Kansas and is considered the founder of the community. \"Mr. Strang watches the sun rise over the city he founded. A small fob of his first streetcar, the Ogerita, dangles from his pocket watch chain.\" By Kwan Wu. Dedicated May 20, 2006",
+      "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/strang.jpg"
+    },
+
+    {
+      "name": "West Prairie Loop Access",
+      "latitude": 38.79517,
+      "longitude": -94.69947,
+      "category": "POI",
+      "description": "Short trail from Whitetail Loop to the Prairie Loop trail.",
+      "imageURL": null
+    },
+    {
+      "name": "Central Prairie Loop Access",
+      "latitude": 38.79237,
+      "longitude": -94.69276,
+      "category": "POI",
+      "description": "Short trail from Rocky Ridge Trail to the Prairie Loop trail.",
+      "imageURL": null
+    },
+    {
+      "name": "East Prairie Loop Access",
+      "latitude": 38.79383,
+      "longitude": -94.68782,
+      "category": "POI",
+      "description": "Short trail from Rocky Ridge Trail to the Prairie Loop trail.",
+      "imageURL": null
+    },
+    
+  {
+    "name": "Help Desk",
+    "latitude": 38.80181737640019,
+    "longitude": -94.68930579112666,
+    "category": "Help Desk",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Restrooms",
+    "latitude": 38.8017232490124,
+    "longitude": -94.68911931145844,
+    "category": "Restroom",
+    "description": "",
+    "imageURL": null
+  },
+  {
+  "name": "The East and the West - Same Man",
+  "latitude": 38.801055992424025,
+  "longitude": -94.68956859982194,
+  "category": "Art Installation",
+  "description": "By Kwan Wu, 2011.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/same-man.jpg"
+  },
+  {
+  "name": "Pu Songling",
+  "latitude": 38.800702131844986,
+  "longitude": -94.68968133308837,
+  "category": "Art Installation",
+  "description": "By Chunsheng Cao, 2012.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/pu-songling.jpg"
+  },
+  {
+  "name": "The Chinese Pioneers",
+  "latitude":  38.80060432375832,
+  "longitude": -94.68972184231025,
+  "category": "Art Installation",
+  "description": "By Xuejun Yang, 2011.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/chinese-pioneers.jpg"
+  },
+  {
+  "name": "Organic Solidarity",
+  "latitude": 38.80052029401442,
+  "longitude": -94.68966387415256,
+  "category": "Art Installation",
+  "description": "By Jon Barlow Hudson, 2013",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/unnamed-granite.jpg"
+  },
+  {
+  "name": "Creek",
+  "latitude": 38.800436157189274,
+  "longitude": -94.68948212058345,
+  "category": "Art Installation",
+  "description": "By ZengKang Lu, 2007",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/creek.jpg"
+  },
+  {
+  "name": "New Life",
+  "latitude": 38.80038150918266,
+  "longitude": -94.68938574948062,
+  "category": "Art Installation",
+  "description": "By Fen Pan, 2011",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/new-life.jpg"
+  },
+  {
+  "name": "Friendship from Afar",
+  "latitude": 38.80035546118411,
+  "longitude": -94.68925435012893,
+  "category": "Art Installation",
+  "description": "By Jia Chai, 2013",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/friendship-from-afar.jpg"
+  },
+  {
+  "name": "Breeze",
+  "latitude": 38.80029242207259,
+  "longitude": -94.68916283070394,
+  "category": "Art Installation",
+  "description": "Breeze is the wind of memory. A comfortable feeling, like the wind over the water, stay in memory and on the ripple marble. By Zhong Zhiyuan, August 11, 2011",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/breeze.jpg"
+  },
+  {
+  "name": "Contemporaries",
+  "latitude": 38.80029126533375,
+  "longitude": -94.68890933352388,
+  "category": "Art Installation",
+  "description": "\"Although we\u2019re from different countries, speak different languages, we are breathing the same air of the Earth and living in the same world, happiness or sadness we\u2019re contemporaries in the connected world.\" By Fen Pan, 2011",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/contemporaries.jpg"
+  },
+  {
+  "name": "The Wisdom of the East - Confucianism",
+  "latitude": 38.80030420900133,
+  "longitude": -94.68879238439371,
+  "category": "Art Installation",
+  "description": "By Fang Pan, 2012.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/wisdom-of-the-east.jpg"
+  },
+  {
+  "name": "Choice",
+  "latitude": 38.800360143573755,
+  "longitude": -94.68856830926511,
+  "category": "Art Installation",
+  "description": "Choice of life, attention and contempt. Virtual and real, stick and together. By Chang Yu, 2011.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/choice.jpg"
+  },
+  {
+  "name": "The Wind Catching Boy",
+  "latitude": 38.80036853291056,
+  "longitude": -94.68838717359041,
+  "category": "Art Installation",
+  "description": "By Yijun Jun, June 2010.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/wind-catching-boy.jpg"
+  },
+  {
+  "name": "Michael Jackson",
+  "latitude": 38.800448027921,
+  "longitude": -94.68801280132799,
+  "category": "Art Installation",
+  "description": "By Zengkang Lu, 2010.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/michael-jackson.jpg"
+  },
+  {
+  "name": "Childhood",
+  "latitude": 38.80059935083168,
+  "longitude": -94.68749269367422,
+  "category": "Art Installation",
+  "description": "By Xuejun Yang, August 16, 2011.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/childhood.jpg"
+  },
+  {
+  "name": "Vast Sky",
+  "latitude": 38.80069623449084,
+  "longitude": -94.68729282761691,
+  "category": "Art Installation",
+  "description": "By Kun Wei, 2013.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/vast-sky.jpg"
+  },
+  {
+  "name": "Peacock Dance",
+  "latitude": 38.80078716397246,
+  "longitude": -94.68726818300132,
+  "category": "Art Installation",
+  "description": "By Huidong Li and Shu Zhang, 2012.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/peacock-dance.jpg"
+  },
+  {
+  "name": "Horse",
+  "latitude": 38.80098283261922,
+  "longitude": -94.68724343659719,
+  "category": "Art Installation",
+  "description": "By Meilin Han, 2013.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/horse.jpg"
+  },
+  {
+  "name": "The East and the West",
+  "latitude": 38.80106425408795,
+  "longitude": -94.68718784832588,
+  "category": "Art Installation",
+  "description": "The President and the Empress. By Kwan Wu, 2011.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/president-and-empress.jpg"
+  },
+  {
+  "name": "Dreaming",
+  "latitude": 38.801205899472436,
+  "longitude": -94.68724258982449,
+  "category": "Art Installation",
+  "description": "By E. He, 2013.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/dreaming.jpg"
+  },
+  {
+  "name": "Children with Hanging Key",
+  "latitude": 38.801240068336874,
+  "longitude": -94.68735251395076,
+  "category": "Art Installation",
+  "description": "In the early eighties, the state is entering the reform and opening up. The children\u2019s school life began to get nervous, and adults were the working parents, no time to take care of them. At noon recess, children had to go home to fixed up lunch by themselves so they always handed their door keys on their chest, they were not spoiled. These students were born between the sixties and the seventies. Now, many of the have become the backbone of society and the pillar. By Chan Yu, 2011.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/children-with-key.jpg"
+  },
+  {
+  "name": "Silvery Dream",
+  "latitude": 38.80153596020418,
+  "longitude": -94.68758555813226,
+  "category": "Art Installation",
+  "description": "By Songain Mo, August 2013.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/silvery-dream.jpg"
+  },
+ 
+ {
+  "name": "Enlightenment",
+  "latitude": 38.801615212914555,
+  "longitude": -94.68766923830049,
+  "category": "Art Installation",
+  "description": "\"Love or Mother is a beautiful poem, full of sweets and warms. Love of Mother is the priceless treasure, enlightening intuitive knowledge and wisdom. May Aurora, this bright Star of Dawn shine warm upon you!.\" By Daxi Tang, 1983.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/enlightenment.jpg"
+  },
+  
+  {
+    "name": "International Sculpture Garden",
+    "latitude": 38.80175,
+    "longitude": -94.68820,
+    "category": "Garden",
+    "description": "The international sculpture garden is a series of sculptures on permanent display along a nearly half-mile loop through a dry oak savanna ecosystem.",
+    "imageURL": null
+  },
+  {
+    "name": "East Pavilion",
+    "latitude": 38.80183180245611,
+    "longitude": -94.68857178247146,
+    "category": "Seat",
+    "description": "Covered patio with picnic tables for group events.",
+    "imageURL": null
+  },
+  {
+    "name": "Restrooms",
+    "latitude": 38.80176167977579,
+    "longitude": -94.68847770952485,
+    "category": "Restroom",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Monet\u2019s Garden",
+    "latitude": 38.80148833047733,
+    "longitude": -94.68990098115458,
+    "category": "Garden",
+    "description": "The Monet Garden captures the subtle blending of soft colors and shapes typical in the original Monet gardens.",
+    "imageURL": null
+  },
+  {
+    "name": "Legacy Garden",
+    "latitude": 38.80111466839405,
+    "longitude": -94.68976719238088,
+    "category": "Garden",
+    "description": "The legacy garden showcases plants that may have been seen on Kansas homesteads. There are four time capsules in this garden that are opened every 25 years.",
+    "imageURL": null
+  },
+  {
+    "name": "Little Scoundrel",
+    "latitude": 38.800783952884,
+    "longitude": -94.69016417388764,
+    "category": "Art Installation",
+    "description": "Created by Stephen LeBlanc. Donated by Legacy of Greenery Committee, Overland Park Volunteer Tree Fund. Dedicated October 21, 2006.",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/little-scoundrel.jpg"
+  },
+
+  {
+    "name": "Marder Woodland Garden",
+    "latitude": 38.80041959548375,
+    "longitude": -94.69068739338296,
+    "category": "Garden",
+    "description": "Beautiful all year round, the Marder woodland garden offers a shaded walk along a babbling brook.",
+    "imageURL": null
+  },
+  {
+    "name": "Marder Pergola",
+    "latitude": 38.79984357611091,
+    "longitude": -94.69092105245456,
+    "category": "Seat",
+    "description": "Native stone and wood pergola perfect spot to rest and contemplate.",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/marder-pergola.jpg"
+  },
+  {
+    "name": "Restrooms",
+    "latitude": 38.79987466324337,
+    "longitude": -94.693126344186,
+    "category": "Restroom",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Copper Hopper Chopper",
+    "latitude": 38.79987093422308,
+    "longitude": -94.69274624298592,
+    "category": "Art Installation",
+    "description": "By David Seitzinger, 2005.",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/copper-hopper-chopper.jpg"
+  },
+  {
+    "name": "Train Garden",
+    "latitude": 38.8004236061145,
+    "longitude": -94.69287188073412,
+    "category": "Garden",
+    "description": "The train garden delights children and adults alike. Shrubs and flowers complement a real railroad caboose, full-size railroad crossing gate and model trains that wind through mountains, bluffs, streams, and a model of Downtown Overland Park.",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/train-garden.jpg"
+  },
+  {
+    "name": "Kopperman Garden",
+    "latitude": 38.80138865494188,
+    "longitude": -94.69279984625082,
+    "category": "Garden",
+    "description": "",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/kopperman-garden.jpg"
+  },
+  {
+    "name": "LongHouse",
+    "latitude": 38.80194,
+    "longitude": -94.69249,
+    "category": "Building",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Cafe Celeste",
+    "latitude": 38.80162,
+    "longitude": -94.69279,
+    "category": "Shop",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Gift Shop",
+    "latitude": 38.80217,
+    "longitude": -94.69298,
+    "category": "Shop",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Restrooms",
+    "latitude": 38.80176,
+    "longitude": -94.69282,
+    "category": "Restroom",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Guest Services",
+    "latitude": 38.80204,
+    "longitude": -94.69294,
+    "category": "Help Desk",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Poppies",
+    "latitude": 38.80218,
+    "longitude": -94.69272,
+    "category": "Art Installation",
+    "description": "By Jeff Hanson Art, 2025.",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/poppies.jpg"
+  },
+  {
+    "name": "Emily Dickinson Garden",
+    "latitude": 38.80221825872733,
+    "longitude": -94.69122200326146,
+    "category": "Garden",
+    "description": "",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/emily-dickinson-garden.jpg"
+  },
+  {
+    "name": "Karen\u2019s Peony Garden",
+    "latitude": 38.80200574877671,
+    "longitude": -94.6910166772566,
+    "category": "Garden",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Donna\u2019s Walk",
+    "latitude": 38.80171520546425,
+    "longitude": -94.69067390801268,
+    "category": "POI",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Margaret\u2019s Pond",
+    "latitude": 38.80137561644784,
+    "longitude": -94.69147503395297,
+    "category": "Garden",
+    "description": "",
+    "imageURL": null
+  },
+  {
+    "name": "Environmental Education Center (ECC)",
+    "latitude": 38.80170964030683,
+    "longitude": -94.68932275363001,
+    "category": "Building",
+    "description": "Located just beyond the entrance to the Arboretum & Botanical Gardens, the environmental education visitors center is the starting point for guests and includes its own seasonal plantings and pots.",
+    "imageURL": null
+  },
+  {
+    "name": "Corazon II",
+    "latitude": 38.80179730758781,
+    "longitude": -94.68907975743707,
+    "category": "Art Installation",
+    "description": "By Gino Miles. A gift from Hope and Marshall Talbot in loving memoryor their daughters Tracy Lynn Mopper and Wendy Renee Talbot. October 2018",
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/corazon-ii.jpg"
+  },
+  {
+    "name": "East Kiosk Entrance",
+    "latitude": 38.80200638455221,
+    "longitude": -94.68859314420217,
+    "category": "Building",
+    "description": "",
+    "imageURL": null
+  },
+  {
+  "name": "Barton P. Cohen Overlook",
+  "latitude": 38.80094468609735,
+  "longitude": -94.69105071710007,
+  "category": "Seat",
+  "description": "In honor of his 70th birthday, with deep appreciation. From the Metcalf Bank Family.",
+  "imageURL": null
+  },
+
+  {
+  "name": "Byrd\u2019s Grove",
+  "latitude": 38.80184611970262,
+  "longitude": -94.69145232047786,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "The Retreat",
+  "latitude": 38.80091247580377,
+  "longitude": -94.69008111912474,
+  "category": "Seat",
+  "description": "Gift of Bill and Patti Ritter",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/retreat.jpeg"
+  },
+
+
+  {
+  "name": "Josh\u2019s Story",
+  "latitude": 38.8011073432483,
+  "longitude": -94.6902687146718,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Rock Waterfalls Garden",
+  "latitude": 38.80076556914988,
+  "longitude": -94.69089728515206,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Bird Watch",
+  "latitude": 38.79904499280462,
+  "longitude": -94.68948159714789,
+  "category": "POI",
+  "description": "Enjoy quietly. Dogs prohibited in this area. Please share your sightings with us.",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Osage Orange",
+  "latitude": 38.79915282250517,
+  "longitude": -94.68846098943916,
+  "category": "Tree",
+  "description": "Maclura pomifera",
+  "imageURL": null
+  },
+
+  {
+  "name": "Cottonwood",
+  "latitude": 38.79859743790967,
+  "longitude": -94.68856302489323,
+  "category": "Tree",
+  "description": "Populus deltoides",
+  "imageURL": null
+  },
+
+  {
+  "name": "Sycamore",
+  "latitude": 38.79773811490524,
+  "longitude": -94.68854334441085,
+  "category": "Tree",
+  "description": "Platanus occidentalis",
+  "imageURL": null
+  },
+
+  {
+  "name": "Pawpaw Grove",
+  "latitude": 38.79559861485771,
+  "longitude": -94.69353915938501,
+  "category": "Tree",
+  "description": "Asimina triloba",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Riparian Woodland",
+  "latitude": 38.79606919972218,
+  "longitude": -94.6937807683514,
+  "category": "POI",
+  "description": "This ecosystem lies in the floodplain created by Wolf Creek, which flows through the Arboretum. Floodplains are low areas next to streams and rivers that are created as the moving water erodes sideways or \"meanders\". Water moves fastest on the outside of the meanders (curves), which causes erosion and steep banks. On the inside of the curves, slower moving water drops sediments that cause sand, mud and gravel bars. The floodplain will experience flooding in times of extremely heavy rainfall or runoff. Here you will see moisture-loving trees such as the Sycamore and Eastern Cottonwood.",
+  "imageURL": null
+  },
+
+  {
+  "name": "Bench",
+  "latitude": 38.79803332054528,
+  "longitude": -94.69486421833307,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Honeylocust",
+  "latitude": 38.7989138102866,
+  "longitude": -94.69361010190703,
+  "category": "Tree",
+  "description": "Gleditsia triacanthos",
+  "imageURL": null
+  },
+
+  {
+  "name": "Nature Play",
+  "latitude": 38.7995035980385,
+  "longitude": -94.69215865398377,
+  "category": "Playground",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Council Ring",
+  "latitude": 38.79934587590111,
+  "longitude": -94.69251280150915,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Frog Pond",
+  "latitude": 38.79960840174861,
+  "longitude": -94.69264625424833,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Leatherwood Depot",
+  "latitude": 38.80037411276743,
+  "longitude": -94.69294616228605,
+  "category": "Seat",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/depot.jpg"
+  },
+
+
+  {
+  "name": "Children\u2019s Hill",
+  "latitude": 38.79997856490175,
+  "longitude": -94.69247593250881,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Red Tail Hawk",
+  "latitude": 38.79994965204549,
+  "longitude": -94.69230198067103,
+  "category": "Art Installation",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/red-tail-hawk.jpg"
+  },
+
+
+  {
+  "name": "Children\u2019s Discovery Garden",
+  "latitude": 38.79995403599484,
+  "longitude": -94.69220888675011,
+  "category": "Garden",
+  "description": "Presented to The Children of Our Community by the men and women of the Rotary Club of Overland Park and Overland Park South Rotary Club. Dedicated May 21, 2000.",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Serenity Point",
+  "latitude": 38.80026781829516,
+  "longitude": -94.69187392958401,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Medicine Wheel",
+  "latitude": 38.79979961811274,
+  "longitude": -94.69130974340258,
+  "category": "POI",
+  "description": "Created by Chief Lee Yellow Eyes in cooperation with the traditional Southern Cheyenne Indian Nation. Dedicated November 19, 2001",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/medicine-wheel-notes.jpeg"
+  },
+
+  {
+  "name": "Cohen Iris Garden",
+  "latitude": 38.80044707799102,
+  "longitude": -94.69146864197154,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Erickson Water Garden",
+  "latitude": 38.80067770022254,
+  "longitude": -94.69142760631918,
+  "category": "Garden",
+  "description": "Donated by Dick and Georgia Erickson, August 1996.",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Great Lawn",
+  "latitude": 38.80130100025507,
+  "longitude": -94.69195398110989,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Hilltop Terrace",
+  "latitude": 38.80156074663185,
+  "longitude": -94.69233815925892,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Family Pond",
+  "latitude": 38.80180356535132,
+  "longitude": -94.691936429637,
+  "category": "POI",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/family-pond.jpg"
+  },
+
+
+  {
+  "name": "Haake Celebration Terrace",
+  "latitude": 38.80214850150903,
+  "longitude": -94.69052089966425,
+  "category": "Seat",
+  "description": "A gift from Chuch and Karen Haake. Dedicated July 2011.",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Lakeside Amphitheater",
+  "latitude": 38.80169323547248,
+  "longitude": -94.69054196012767,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Stous Promenade",
+  "latitude": 38.80196170233256,
+  "longitude": -94.69009458805557,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Xeriscape Garden",
+  "latitude": 38.80187,
+  "longitude": -94.68966,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Shingle Oak",
+  "latitude": 38.80187901693596,
+  "longitude": -94.68877941946602,
+  "category": "Tree",
+  "description": "Quercus imbricaria",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Ginkgo biloba",
+  "latitude": 38.80186703030955,
+  "longitude": -94.68892289786925,
+  "category": "Tree",
+  "description": "Ginkgo biloba",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "White Ash",
+  "latitude": 38.80185397261003,
+  "longitude": -94.68885729624708,
+  "category": "Tree",
+  "description": "Fraxinus americana. Variety: Rosehill",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Round-lobed Sweetgum",
+  "latitude": 38.80178698950464,
+  "longitude": -94.68896876698524,
+  "category": "Tree",
+  "description": "Liquidamber styraciflua",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Northern Red Oak",
+  "latitude": 38.80183366294735,
+  "longitude": -94.68902446976894,
+  "category": "Tree",
+  "description": "Quercus rubra",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Bald Cypress",
+  "latitude": 38.80185691240487,
+  "longitude": -94.68915591104604,
+  "category": "Tree",
+  "description": "Taxodium distichum",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Composting Demonstration Area",
+  "latitude": 38.80158749938261,
+  "longitude": -94.68903062048182,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Post Oak",
+  "latitude": 38.80179962658712,
+  "longitude": -94.68834166380861,
+  "category": "Tree",
+  "description": "Quercus stellata",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Honeylocust",
+  "latitude": 38.80154367318629,
+  "longitude": -94.68806030525981,
+  "category": "Tree",
+  "description": "Gleditsia triacanthos",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Bur Oak",
+  "latitude": 38.79972294704422,
+  "longitude": -94.6878264131408,
+  "category": "Tree",
+  "description": "Quercus macrocarpa",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Information Board",
+  "latitude": 38.79853246217635,
+  "longitude": -94.68880211501508,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Tracks & Scat",
+  "latitude": 38.797096191017,
+  "longitude": -94.68970717479553,
+  "category": "POI",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/tracks-scat.jpg"
+  },
+
+
+  {
+  "name": "Pawpaw Grove",
+  "latitude": 38.79632214627086,
+  "longitude": -94.6924626709786,
+  "category": "Tree",
+  "description": "Asimina triloba",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Green Ash (dead)",
+  "latitude": 38.79715128606755,
+  "longitude": -94.69291831789323,
+  "category": "Tree",
+  "description": "Fraxinus pennsylvanica",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "American Elm",
+  "latitude": 38.79648330596858,
+  "longitude": -94.69310917611413,
+  "category": "Tree",
+  "description": "Ulmus americana",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Brady’s Bench",
+  "latitude": 38.79514196552145,
+  "longitude": -94.6950826155219,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Concrete Bench",
+  "latitude": 38.79471205012555,
+  "longitude": -94.69338190615311,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Sycamore",
+  "latitude": 38.79472117414422,
+  "longitude": -94.69336751535033,
+  "category": "Tree",
+  "description": "Platanus occidentalis",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Common Hackberry",
+  "latitude": 38.7971314355411,
+  "longitude": -94.68873522248306,
+  "category": "Tree",
+  "description": "Celtis occidentalis",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Picnic Table",
+  "latitude": 38.79867356692777,
+  "longitude": -94.68908149215422,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Reflecting Pool",
+  "latitude": 38.79942934608768,
+  "longitude": -94.69098962698637,
+  "category": "Seat",
+  "description": "Shady spot next to a gurgling pool to sit and reflect.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/reflecting-pool.jpg"
+  },
+
+
+  {
+  "name": "Tuliptree",
+  "latitude": 38.79936552181805,
+  "longitude": -94.69096684955935,
+  "category": "Tree",
+  "description": "Liriodendron tulipifera",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Shingle Oak",
+  "latitude": 38.79924586203577,
+  "longitude": -94.69120463493948,
+  "category": "Tree",
+  "description": "Quercus imbricaria",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "American Sycamore",
+  "latitude": 38.79935902598638,
+  "longitude": -94.6910682744583,
+  "category": "Tree",
+  "description": "Platanus occidentalis",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Common Hackberry",
+  "latitude": 38.80016377721245,
+  "longitude": -94.69091011808401,
+  "category": "Tree",
+  "description": "Celtis occidentalis",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Black Walnut",
+  "latitude": 38.80035632304039,
+  "longitude": -94.69091328218944,
+  "category": "Tree",
+  "description": "Juglans nigra",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "The Rising Sun Redbud",
+  "latitude": 38.80070333205069,
+  "longitude": -94.69073330798865,
+  "category": "Tree",
+  "description": "Cercis canadensis",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Magnolia (Butterflies)",
+  "latitude": 38.80083508282359,
+  "longitude": -94.69090196659739,
+  "category": "Tree",
+  "description": "Magnolia acuminata + Magnolia denudata",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Eastern Redbud",
+  "latitude": 38.80080075914608,
+  "longitude": -94.69088982760255,
+  "category": "Tree",
+  "description": "Cercis canadensis",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Italian Arum",
+  "latitude": 38.80082411420492,
+  "longitude": -94.69103913313643,
+  "category": "Tree",
+  "description": "Arum italicum",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Allie\u2019s Glade",
+  "latitude": 38.80081464625177,
+  "longitude": -94.69086350455446,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Red Mulberry",
+  "latitude": 38.80103252845033,
+  "longitude": -94.69055139454419,
+  "category": "Tree",
+  "description": "Morus rubra",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Leatherleaf Viburnum",
+  "latitude": 38.80096319806721,
+  "longitude": -94.69024753899491,
+  "category": "Tree",
+  "description": "Viburnum rhytidophyllum",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Wooden Benches",
+  "latitude": 38.801409803567,
+  "longitude": -94.69002132964104,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Art Gallery",
+  "latitude": 38.80168,
+  "longitude": -94.69281,
+  "category": "Art Installation",
+  "description": "",
+  "imageURL": null
+  },
+  {
+  "name": "East Access to Bluff and Rocky Ridge",
+  "latitude": 38.79806065298234,
+  "longitude": -94.68854653265468,
+  "category": "POI",
+  "description": "Short trail from Cottonwood Trail to Bluff Loop and Rocky Ridge Trails.",
+  "imageURL": null
+  },
+
+  {
+  "name": "West Access to Bluff & Rocky Ridge",
+  "latitude": 38.79716726178483,
+  "longitude": -94.69041230459217,
+  "category": "POI",
+  "description": "Short trail from Cottonwood Trail to Bluff Loop.",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Picnic Tables",
+  "latitude": 38.79734962427951,
+  "longitude": -94.69061266583689,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Native Woman",
+  "latitude": 38.79757042274154,
+  "longitude": -94.69029159015265,
+  "category": "Art Installation",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/native-woman.jpg"
+  },
+
+
+  {
+  "name": "Geometric Stratum",
+  "latitude": 38.80164239435607,
+  "longitude": -94.68973779166033,
+  "category": "Art Installation",
+  "description": "By Tom Brewitz, 2018.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/geometric-stratum.jpg"
+  },
+
+
+  {
+  "name": "Monet Sculpture",
+  "latitude": 38.80162179340451,
+  "longitude": -94.69000130454951,
+  "category": "Art Installation",
+  "description": "By Gary Lee Price, 2013.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/monet.jpg"
+  },
+
+  {
+  "name": "Barbara’s Patio",
+  "latitude": 38.80165759438832,
+  "longitude": -94.68949157786379,
+  "category": "Seat",
+  "description": "In loving memory of Barbara Jean Holsapple",
+  "imageURL": null
+  },
+  
+  {
+  "name": "Blackbird",
+  "latitude": 38.97474552969344,
+  "longitude": -94.68396111723808,
+  "category": "Art Installation",
+  "description": "By Larry Young, 2011.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/blackbird.jpg"
+  },
+
+  {
+  "name": "City Hall Art Collection",
+  "latitude": 38.97427274493858,
+  "longitude": -94.68535338068975,
+  "category": "Art Installation",
+  "description": "City Hall hosts a small but interesting series of sketches showing scenes from old Overland Park, art from our sister city and more. Pictured is \"American Muse\" by Roger Shimomura, 2017.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/american-muse.jpg"
+  },
+
+  {
+  "name": "A Great Place to Land",
+  "latitude": 38.9823203989526,
+  "longitude": -94.67337005733137,
+  "category": "Art Installation",
+  "description": "By Gary Kahle. Dedicated September 2006.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/great-place-to-land.jpg"
+  },
+
+  {
+  "name": "Pierced Sky",
+  "latitude": 38.94148452733804,
+  "longitude": -94.66797722852358,
+  "category": "Art Installation",
+  "description": "By Matt Kirby",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/pierced-sky.jpg"
+  },
+
+  {
+  "name": "Converge",
+  "latitude": 38.92806284488401,
+  "longitude": -94.65597232089601,
+  "category": "Art Installation",
+  "description": "By Steven Richardson. Dedicated September 2004.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/converge.jpg"
+  },
+  
+  {
+  "name": "Black Oak",
+  "latitude": 38.80141985786675,
+  "longitude": -94.68750418391554,
+  "category": "Tree",
+  "description": "Quercus veluntina",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "White Mulberry",
+  "latitude": 38.80125237259242,
+  "longitude": -94.68728678236928,
+  "category": "Tree",
+  "description": "Morus alba",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Red Elm",
+  "latitude": 38.80048144339497,
+  "longitude": -94.68916901876736,
+  "category": "Tree",
+  "description": "Ulmus rubra",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Concrete Bench",
+  "latitude": 38.79667920383945,
+  "longitude": -94.69362403433435,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Picnic Table",
+  "latitude": 38.79646953492438,
+  "longitude": -94.69713295688247,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Garden Bell",
+  "latitude": 38.80083849551831,
+  "longitude": -94.69178871992405,
+  "category": "Art Installation",
+  "description": "\"The Bell Tolls for Marx A Gibson, Jr.\" Created by Duane Flaming.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/garden-bell.jpg"
+  },
+
+
+  {
+  "name": "Crabapple",
+  "latitude": 38.80124675975546,
+  "longitude": -94.69149443852268,
+  "category": "Tree",
+  "description": "Malus sylvestris",
+  "imageURL": null
+  },
+
+
+  {
+  "name": "Standing Couple",
+  "latitude": 38.80163269799097,
+  "longitude": -94.69148501746535,
+  "category": "Art Installation",
+  "description": "By Larry Young, 2007.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/standing-couple.jpg"
+  },
+
+  {
+  "name": "Overcup Oak",
+  "latitude": 38.80175870996007,
+  "longitude": -94.69163387922877,
+  "category": "Tree",
+  "description": "Quercus lyrata",
+  "imageURL": null
+  },
+
+  {
+  "name": "Osage Orange",
+  "latitude": 38.80181415608171,
+  "longitude": -94.69153204287252,
+  "category": "Tree",
+  "description": "Maclura pomifera",
+  "imageURL": null
+  },
+
+  {
+  "name": "River Birch",
+  "latitude": 38.80204475423636,
+  "longitude": -94.69125601809375,
+  "category": "Tree",
+  "description": "Betula nigra",
+  "imageURL": null
+  },
+
+  {
+  "name": "Georgia’s Courtyard & Pod Forms",
+  "latitude": 38.80193,
+  "longitude": -94.69287,
+  "category": "Art Installation",
+  "description": "A gift from Georgia Erickson. Art by Liz Vercruysse, 2009.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/pod-forms.jpg"
+  },
+  {
+  "name": "Two Frogs",
+  "latitude": 38.80175534542241,
+  "longitude": -94.68973967739207,
+  "category": "Art Installation",
+  "description": "By Elliott Carlson, 2009.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/two-frogs.jpeg"
+  },
+
+  {
+  "name": "Jazz I",
+  "latitude": 38.80043361233279,
+  "longitude": -94.69147417868631,
+  "category": "Art Installation",
+  "description": "By Tom Corbin, 2009.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/jazz-i.jpeg"
+  },
+
+  {
+  "name": "Jazz II",
+  "latitude": 38.80043309677682,
+  "longitude": -94.69127108334212,
+  "category": "Art Installation",
+  "description": "By Tom Corbin, 2009.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/jazz-ii.jpeg"
+  },
+
+  {
+  "name": "Seat",
+  "latitude": 38.79968617842271,
+  "longitude": -94.69072254977991,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Soaring",
+  "latitude": 38.9398311591364,
+  "longitude": -94.64146038325725,
+  "category": "Art Installation",
+  "description": "By Dennis Smith, 2009.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/soaring.jpeg"
+  },
+
+  {
+  "name": "Hybrid Circle",
+  "latitude": 38.92477762572418,
+  "longitude": -94.71002736933281,
+  "category": "Art Installation",
+  "description": "By Devin Laurence Field. Dedicated 2016.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/hybrid-circie.jpeg"
+  },
+
+  {
+  "name": "Sunflower",
+  "latitude": 38.9123938195679,
+  "longitude": -94.67819292750018,
+  "category": "Art Installation",
+  "description": "By Allen Wynn",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/sunflower.jpeg"
+  },
+  
+  {
+  "name": "Tomahawk Ridge Art Collection",
+  "latitude": 38.91251,
+  "longitude": -94.67806,
+  "category": "Art Installation",
+  "description": "Art at the Center is a unique, not-for-profit gallery space that features exhibitions from local artists. Shows include issue and student exhibitions, as well as artists featured in the City’s permanent collection, artists who use varied media, and artists who create based on their life perspectives.",
+  "imageURL": null
+  },
+  
+  {
+  "name": "Matt Ross Art Collection",
+  "latitude": 38.98213,
+  "longitude": -94.66929,
+  "category": "Art Installation",
+  "description": "The Matt Ross Community Center hosts a variety of art pieces from the complex Millennium Arc by Brent Collins to the soft evening sunset by Rich Bowman.",
+  "imageURL": null
+  },
+  
+  {
+  "name": "Convention Center Collection",
+  "latitude": 38.92877,
+  "longitude": -94.65522,
+  "category": "Art Installation",
+  "description": "This collection of more than 70 pieces is designed to illustrate our history, our values and the beauty of our community.",
+  "imageURL": null
+  },
+
+  {
+  "name": "Mainstreet Shops",
+  "latitude": 38.87750667676669,
+  "longitude": -94.70286361672433,
+  "category": "Shop",
+  "description": "Vic\u2019s General Store, Alex + Emily\u2019s Ice Cream Parlor, Ben\u2019s Bank, Pat\u2019s Photography Parlor, Ray\u2019s Barbershop, John\u2019s Blacksmith Shop",
+  "imageURL": null
+  },
+  
+  {
+  "name": "John\u2019s Blacksmith Shop",
+  "latitude": 38.87725,
+  "longitude": -94.70273,
+  "category": "Building",
+  "description": "Stop by and watch and visit with blacksmiths working with a forge.",
+  "imageURL": null
+  },
+
+  {
+  "name": "Mackenzie\u2019s Island",
+  "latitude": 38.87649,
+  "longitude": -94.70305,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Pedal Tractors Track",
+  "latitude": 38.87672724700123,
+  "longitude": -94.70326265033371,
+  "category": "Playground",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Grandpa Bob\u2019s Fishing Pond",
+  "latitude": 38.87668725463533,
+  "longitude": -94.70350546523009,
+  "category": "Shop",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Ponies",
+  "latitude": 38.8767605929259,
+  "longitude": -94.70377388585099,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Kanza Indian Encampment",
+  "latitude": 38.87671449744319,
+  "longitude": -94.70437478710772,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+  
+  {
+  "name": "Kanza Roundhouse",
+  "latitude": 38.87666,
+  "longitude": -94.70461,
+  "category": "Building",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/kanza-roundhouse.jpeg"
+  },
+
+
+  {
+  "name": "Bison Sculpture",
+  "latitude": 38.87682341451298,
+  "longitude": -94.7044842821503,
+  "category": "Art Installation",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/bison.jpeg"
+  },
+
+  {
+  "name": "Pigmy Goat Bottle Feeding",
+  "latitude": 38.87682955362112,
+  "longitude": -94.70375595598205,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Megan\u2019s Windmill",
+  "latitude": 38.8768608066635,
+  "longitude": -94.70369448635574,
+  "category": "POI",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/windmill.jpeg"
+  },
+
+  {
+  "name": "Dairy Barn",
+  "latitude": 38.87733,
+  "longitude": -94.70452,
+  "category": "Building",
+  "description": "Live milking cow demonstrations twice a day at 9:30 a.m. and 4:30 p.m.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/dairy-barn.jpg"
+  },
+  
+  {
+  "name": "Dairy Cows",
+  "latitude": 38.87713,
+  "longitude": -94.70486,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Dairy Barn Concessions",
+  "latitude": 38.87729800275844,
+  "longitude": -94.70481395639543,
+  "category": "Shop",
+  "description": "",
+  "imageURL": null
+  },
+  
+  {
+  "name": "Cinemoo Moovie Theater",
+  "latitude": 38.87725813924605,
+  "longitude": -94.70463895653913,
+  "category": "POI",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Peafowl",
+  "latitude": 38.87719431498603,
+  "longitude": -94.70148284934594,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Mining Shack",
+  "latitude": 38.87752335829193,
+  "longitude": -94.70445823639488,
+  "category": "Building",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Helen\u2019s Schoolhouse",
+  "latitude": 38.877583380023,
+  "longitude": -94.70390648247228,
+  "category": "Building",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/helens-schoolhouse.jpeg"
+  },
+
+  {
+  "name": "50th Anniversary Garden",
+  "latitude": 38.87785572123834,
+  "longitude": -94.70400569688513,
+  "category": "Garden",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/50th-garden.jpeg"
+  },
+
+  {
+  "name": "Apple Orchard",
+  "latitude": 38.87783604683504,
+  "longitude": -94.70412597037648,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Morgan\u2019s Playground",
+  "latitude": 38.8779435136759,
+  "longitude": -94.70438351399828,
+  "category": "Playground",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Prairie Pavilion",
+  "latitude": 38.87796678419802,
+  "longitude": -94.70462561164604,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Georgia\u2019s Chicken Coop",
+  "latitude": 38.87744602862131,
+  "longitude": -94.70351424332267,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Gayle\u2019s Exploration Outpost",
+  "latitude": 38.87771085966258,
+  "longitude": -94.7027515983502,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Prairie Playground",
+  "latitude": 38.87789906584136,
+  "longitude": -94.70284407229947,
+  "category": "Playground",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Sheep",
+  "latitude": 38.87807271804238,
+  "longitude": -94.70173611500141,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Restrooms",
+  "latitude": 38.87812887523367,
+  "longitude": -94.70156369505365,
+  "category": "Restroom",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Friends Plaza",
+  "latitude": 38.87807070824055,
+  "longitude": -94.70144394264041,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Farmhouse Concessions",
+  "latitude": 38.87806451702649,
+  "longitude": -94.70136666011537,
+  "category": "Shop",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Katahdin Sheep & Llama",
+  "latitude": 38.87796712488902,
+  "longitude": -94.70110034617451,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Pigs",
+  "latitude": 38.87782293208896,
+  "longitude": -94.70107073632273,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Prairie Meadow Garden",
+  "latitude": 38.87761955186406,
+  "longitude": -94.70127961616137,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Prairie Dogs",
+  "latitude": 38.87765193931075,
+  "longitude": -94.70123747693128,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Koi Pond",
+  "latitude": 38.87774092077665,
+  "longitude": -94.70136689349755,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Chickens",
+  "latitude": 38.87779713153686,
+  "longitude": -94.70163731758184,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "American Crow",
+  "latitude": 38.87780628879101,
+  "longitude": -94.70159540170917,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Dairy Goats",
+  "latitude": 38.87767021529492,
+  "longitude": -94.70192041057823,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Brian\u2019s Turkey Coop",
+  "latitude": 38.87776236922114,
+  "longitude": -94.70218274400989,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Rabbit Pen",
+  "latitude": 38.87789200314765,
+  "longitude": -94.70213304295505,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Master Garden",
+  "latitude": 38.8775268543759,
+  "longitude": -94.70176813402195,
+  "category": "Garden",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Horses and Mules",
+  "latitude": 38.87736136245481,
+  "longitude": -94.70190406457941,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Pigmy Goats",
+  "latitude": 38.87735319917725,
+  "longitude": -94.70182921594211,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "American Bison",
+  "latitude": 38.87737214273403,
+  "longitude": -94.70115306888073,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Peafowl",
+  "latitude": 38.87734923342576,
+  "longitude": -94.70126124916938,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Birds of Prey",
+  "latitude": 38.87715308530831,
+  "longitude": -94.70136800452244,
+  "category": "Animals",
+  "description": "Turkey vulture, barred owl, bald eagle, red-tailed hawk",
+  "imageURL": null
+  },
+
+  {
+  "name": "Bobcat",
+  "latitude": 38.87711151763028,
+  "longitude": -94.70140997083648,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Beverly\u2019s Butterfly Garden",
+  "latitude": 38.87680792682004,
+  "longitude": -94.70159306174389,
+  "category": "Garden",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/beverlys-butterfly-garden.jpg"
+  },
+
+  {
+  "name": "Seat",
+  "latitude": 38.87653182987291,
+  "longitude": -94.70210722649459,
+  "category": "Seat",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Draft Horse Depot",
+  "latitude": 38.87830508903854,
+  "longitude": -94.70151126682775,
+  "category": "Building",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Restrooms",
+  "latitude": 38.877756584922,
+  "longitude": -94.70309180289173,
+  "category": "Restroom",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Restrooms",
+  "latitude": 38.87768219750009,
+  "longitude": -94.70348760883665,
+  "category": "Restroom",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Longhorn Cattle",
+  "latitude": 38.87703172475153,
+  "longitude": -94.70425522733998,
+  "category": "Animals",
+  "description": "",
+  "imageURL": null
+  },
+
+  {
+  "name": "Play Barn",
+  "latitude": 38.87796930236662,
+  "longitude": -94.70221930119254,
+  "category": "Playground",
+  "description": "",
+  "imageURL": null
+  },
+  
+  {
+  "name": "Etruscan Urns",
+  "latitude": 38.80112323651902,
+  "longitude": -94.68984410680274,
+  "category": "Art Installation",
+  "description": "By John Siblik, 2010",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/etruscan-urns.jpg"
+  },
+
+  {
+  "name": "Summer at the Pond",
+  "latitude": 38.80199930595835,
+  "longitude": -94.6916043972895,
+  "category": "Art Installation",
+  "description": "By Robin Richerson, 2007.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/summer-at-the-pond.jpg"
+  },
+
+  {
+  "name": "Ladybug",
+  "latitude": 38.80188678957063,
+  "longitude": -94.69279015469886,
+  "category": "Art Installation",
+  "description": "By Mary Lynn Swafford, 2005.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/ladybug.jpg"
+  },
+
+  {
+  "name": "Heading Home",
+  "latitude": 38.80174,
+  "longitude": -94.69258,
+  "category": "Art Installation",
+  "description": "By Robin Richerson, 2006.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/heading-home.jpg"
+  },
+
+  {
+  "name": "Song of Tomorrow",
+  "latitude": 38.98245910183356,
+  "longitude": -94.67275867083157,
+  "category": "Art Installation",
+  "description": "By Kwan Wu, Dedicated 2004.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/song-of-tomorrow.jpg"
+  },
+
+  {
+  "name": "Spirit of Dick Molamphy",
+  "latitude": 38.93028487472738,
+  "longitude": -94.67467043400978,
+  "category": "Art Installation",
+  "description": "By A. Regier.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/spirit-of-dick-molamphy.jpg"
+  },
+  {
+  "name": "Shim Sham Shimmy",
+  "latitude": 38.91326,
+  "longitude": -94.66918,
+  "category": "Art Installation",
+  "description": "By David Stromeyer.",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/shim-sham-shimmy.jpg"
+  }
+
+]
