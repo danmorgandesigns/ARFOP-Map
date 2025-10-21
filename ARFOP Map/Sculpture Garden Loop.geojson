@@ -1060,9 +1060,9 @@
       },
       "type" : "Feature",
       "properties" : {
-        "name" : "Sculpture High Precision",
+        "name" : "Sculpture Garden Loop",
         "description" : "Short paved trail through the heart of the Sculpture Garden.",
-        "info" : "Length: 0.39 miles. Elevation 20 feet.",
+        "info" : "Length: 0.39 miles. Elevation gain 68 feet.",
         "imageURL" : null,
         "color" : "indigo"
       }

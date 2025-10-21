@@ -1066,7 +1066,7 @@
 				"name": "Marder Garden Path",
 				"desc": "Paved trail from the Monet Garden through the Marder Woodland Garden. It is a peaceful and shaded walk along a babbling brook.",				
 				"color": "yellow",
-                "info": "Length: 0.48 miles. Elevation 173 feet.",
+                "info": "Length: 0.48 miles. Elevation gain 173 feet.",
                 "imageURL": null
 			}
 		}

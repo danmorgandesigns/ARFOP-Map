@@ -165,15 +165,12 @@ struct MapView: View {
                     Spacer()
                     HStack {
                         Spacer()
-                        Text("Net: \(debugConnectivityText(for: networkStatus.state))")
-                            .font(.caption2)
-                            .padding(.horizontal, 10)
-                            .padding(.vertical, 6)
-//                            .background(.ultraThinMaterial)
-                            .background(.black.opacity(0.25))
-                            .foregroundStyle(.white)         // white text
-                            .clipShape(Capsule())
-                            .shadow(radius: 1)
+                        Image(systemName: debugConnectivityIcon(for: networkStatus.state))
+                            .font(.system(size: 16, weight: .medium))
+                            .foregroundStyle(debugConnectivityColor(for: networkStatus.state))
+                            .frame(width: 28, height: 28)
+                            .background(.regularMaterial, in: Circle())
+                            .shadow(color: .black.opacity(0.1), radius: 2, x: 0, y: 1)
                             .accessibilityHidden(true)
                     }
                     .padding([.bottom, .trailing], 10)
@@ -778,9 +775,25 @@ struct MapView: View {
     #if DEBUG
     private func debugConnectivityText(for state: NetworkStatus.State) -> String {
         switch state {
-        case .online: return "Online"
-        case .constrained: return "Constrained"
-        case .offline: return "Offline"
+        case .online: return "Connected"
+        case .constrained: return "Limited"
+        case .offline: return "Unavailable"
+        }
+    }
+    
+    private func debugConnectivityIcon(for state: NetworkStatus.State) -> String {
+        switch state {
+        case .online: return "network"
+        case .constrained: return "network"
+        case .offline: return "network.slash"
+        }
+    }
+    
+    private func debugConnectivityColor(for state: NetworkStatus.State) -> Color {
+        switch state {
+        case .online: return .green
+        case .constrained: return .orange
+        case .offline: return .red
         }
     }
     #endif

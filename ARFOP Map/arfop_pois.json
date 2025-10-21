@@ -1,5 +1,13 @@
 [
     {
+      "latitude" : 38.79941702539427,
+      "name" : "Stone Bench",
+      "category" : "Seat",
+      "description" : "",
+      "longitude" : -94.68813246276322,
+      "imageURL" : ""
+    },
+    {
       "name": "Remembering",
       "latitude": 38.91260180287318,
       "longitude": -94.67736190283405,

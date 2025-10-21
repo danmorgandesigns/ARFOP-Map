@@ -16,7 +16,7 @@ public struct OfflineBannerView: View {
 
     public var body: some View {
         HStack(spacing: 8) {
-            Image(systemName: kind == .offline ? "wifi.slash" : "tortoise")
+            Image(systemName: kind == .offline ? "network.slash" : "network")
                 .imageScale(.medium)
             Text(message ?? defaultMessage)
                 .font(.footnote)
