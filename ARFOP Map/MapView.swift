@@ -1159,6 +1159,7 @@ struct CategoryFilterView: View {
         HStack {
             Button("Show All") {
                 poiManager.showAllCategories()
+                showTrailRoutes = true
             }
             .buttonStyle(.bordered)
             
@@ -1166,6 +1167,7 @@ struct CategoryFilterView: View {
             
             Button("Hide All") {
                 poiManager.hideAllCategories()
+                showTrailRoutes = false
             }
             .buttonStyle(.bordered)
         }
