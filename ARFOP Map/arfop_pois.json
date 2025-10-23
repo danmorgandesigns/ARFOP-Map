@@ -450,7 +450,7 @@
   "longitude": -94.69105071710007,
   "category": "Seat",
   "description": "In honor of his 70th birthday, with deep appreciation. From the Metcalf Bank Family.",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/cohen-overlook.jpg"
   },
 
   {
@@ -459,7 +459,7 @@
   "longitude": -94.69145232047786,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/byrds-grove.jpg"
   },
 
 
@@ -642,7 +642,7 @@
   "longitude": -94.69187392958401,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/serenity-point.jpg"
   },
 
 
@@ -661,7 +661,7 @@
   "longitude": -94.69146864197154,
   "category": "Garden",
   "description": "",
-  "imageURL": null
+  "imageURL": "null"
   },
 
 
@@ -681,7 +681,7 @@
   "longitude": -94.69195398110989,
   "category": "Garden",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/great-lawn.jpg"
   },
 
 
@@ -741,7 +741,7 @@
   "longitude": -94.68966,
   "category": "Garden",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/xeriscape-garden.jpg"
   },
 
 
@@ -1076,12 +1076,21 @@
 
 
   {
-  "name": "Wooden Benches",
-  "latitude": 38.801409803567,
-  "longitude": -94.69002132964104,
+  "name": "Stone Benches ",
+  "latitude": 38.80141,
+  "longitude": -94.68968,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/legacy-seat.jpg"
+  },
+  
+  {
+  "name": "Wooden Benches ",
+  "latitude": 38.79970165308244,
+  "longitude": -94.69073971082572,
+  "category": "Seat",
+  "description": "",
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/marder-wooden-benches.jpg"
   },
 
 
