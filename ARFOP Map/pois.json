@@ -1,4 +1,12 @@
 [
+  {
+    "longitude" : -94.69708620677237,
+    "description" : "",
+    "name" : "Picnic Table on Karen\u2019s Path",
+    "category" : "Seat",
+    "latitude" : 38.79644450909474,
+    "imageURL" : ""
+  },
     {
       "latitude" : 38.79941702539427,
       "name" : "Stone Bench",
@@ -273,7 +281,7 @@
     "longitude": -94.68990098115458,
     "category": "Garden",
     "description": "The Monet Garden captures the subtle blending of soft colors and shapes typical in the original Monet gardens.",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/monets-garden.jpg"
   },
   {
     "name": "Legacy Garden",
@@ -281,7 +289,7 @@
     "longitude": -94.68976719238088,
     "category": "Garden",
     "description": "The legacy garden showcases plants that may have been seen on Kansas homesteads. There are four time capsules in this garden that are opened every 25 years.",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/legacy-garden.jpg"
   },
   {
     "name": "Little Scoundrel",
@@ -298,7 +306,7 @@
     "longitude": -94.69068739338296,
     "category": "Garden",
     "description": "Beautiful all year round, the Marder woodland garden offers a shaded walk along a babbling brook.",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/marder-garden-entrance.jpg"
   },
   {
     "name": "Marder Pergola",
@@ -418,7 +426,7 @@
     "longitude": -94.69147503395297,
     "category": "Garden",
     "description": "",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/margarets-pond.jpg"
   },
   {
     "name": "Environmental Education Center (ECC)",
@@ -479,7 +487,7 @@
   "longitude": -94.6902687146718,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/joshs-story.jpg"
   },
 
 
@@ -632,7 +640,7 @@
   "longitude": -94.69220888675011,
   "category": "Garden",
   "description": "Presented to The Children of Our Community by the men and women of the Rotary Club of Overland Park and Overland Park South Rotary Club. Dedicated May 21, 2000.",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/childrens-garden.jpg"
   },
 
 
@@ -691,7 +699,7 @@
   "longitude": -94.69233815925892,
   "category": "POI",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/hilltop.jpg"
   },
 
 
@@ -731,7 +739,7 @@
   "longitude": -94.69009458805557,
   "category": "POI",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/stous-promenade.jpg"
   },
 
 
@@ -1159,6 +1167,14 @@
   "description": "By Gary Lee Price, 2013.",
   "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/monet.jpg"
   },
+    {
+    "imageURL" : "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/monet-benches.jpg",
+    "longitude" : -94.69003021678884,
+    "description" : "",
+    "name" : "Monet Wooden Benches",
+    "latitude" : 38.80133245310283,
+    "category" : "Seat"
+  },
 
   {
   "name": "Barbara’s Patio",
@@ -1253,17 +1269,6 @@
   "imageURL": null
   },
 
-
-  {
-  "name": "Picnic Table",
-  "latitude": 38.79646953492438,
-  "longitude": -94.69713295688247,
-  "category": "Seat",
-  "description": "",
-  "imageURL": null
-  },
-
-
   {
   "name": "Garden Bell",
   "latitude": 38.80083849551831,
@@ -1353,15 +1358,6 @@
   "category": "Art Installation",
   "description": "By Tom Corbin, 2009.",
   "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/jazz-ii.jpeg"
-  },
-
-  {
-  "name": "Seat",
-  "latitude": 38.79968617842271,
-  "longitude": -94.69072254977991,
-  "category": "Seat",
-  "description": "",
-  "imageURL": null
   },
 
   {
@@ -1847,7 +1843,7 @@
   "latitude": 38.87653182987291,
   "longitude": -94.70210722649459,
   "category": "Seat",
-  "description": "",
+  "description": "Located on the Enchanted Trail",
   "imageURL": null
   },
 
