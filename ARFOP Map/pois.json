@@ -1,5 +1,48 @@
 [
   {
+    "latitude" : 38.7952358303363,
+    "name" : "Shortcut",
+    "category" : "POI",
+    "imageURL" : "",
+    "longitude" : -94.69385033097366,
+    "description" : "This shortcut is not on the physical maps."
+  },
+  
+  {
+    "latitude" : 38.80034726268071,
+    "name" : "Dry Oak-Hickory",
+    "category" : "POI",
+    "imageURL" : "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/dry-oak-hickory.jpg",
+    "longitude" : -94.68849035774788,
+    "description" : "The Dry Oak-Hickory forest is a typical ecosystem for this area, as well as much of eastern and central North America. At the Arboretum, it is found any the north side of Wolf Creek above the floodplain and also the higher areas south of Wolf Creek where the soil is dries than in the floodplain. Post Oak, Black Oak, and Shagbark Hickory, the dominant frees here are examples of \"deciduous\" trees, meaning they lose their leaves to the fall and winter. By contrast, \"evergreen\" trees, such as cedar, pine, and spruce stay green year-round. The Eastern Red Cedar is the only evergreen tree native to Kansas."
+  },
+  
+  {
+    "name" : "9/11 Firefighters Memorial",
+    "category" : "Art Installation",
+    "longitude" : -94.68306,
+    "description" : "",
+    "imageURL" : "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/9-11-memorial.jpg",
+    "latitude" : 38.90270
+  },
+
+  {
+    "name" : "Boy with Frog",
+    "category" : "Art Installation",
+    "longitude" : -94.70158592879466,
+    "description" : "By Tom Corbin, 2000",
+    "imageURL" : "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/boy-with-frog.jpg",
+    "latitude" : 38.878020192949265
+  },
+  {
+    "name" : "Lily",
+    "category" : "Art Installation",
+    "longitude" : -94.70158520749067,
+    "description" : "By Mary Lynn Swafford",
+    "imageURL" : "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/lily.jpg",
+    "latitude" : 38.877551920203466
+  },
+  {
     "longitude" : -94.69708620677237,
     "description" : "",
     "name" : "Picnic Table on Karen\u2019s Path",
@@ -103,7 +146,7 @@
   "longitude": -94.68966387415256,
   "category": "Art Installation",
   "description": "By Jon Barlow Hudson, 2013",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/unnamed-granite.jpg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/organic-solidarity.jpg"
   },
   {
   "name": "Creek",
@@ -257,7 +300,7 @@
     "longitude": -94.68820,
     "category": "Garden",
     "description": "The international sculpture garden is a series of sculptures on permanent display along a nearly half-mile loop through a dry oak savanna ecosystem.",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/international-garden.jpg"
   },
   {
     "name": "East Pavilion",
@@ -265,7 +308,7 @@
     "longitude": -94.68857178247146,
     "category": "Seat",
     "description": "Covered patio with picnic tables for group events.",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/east-pavilion.jpg"
   },
   {
     "name": "Restrooms",
@@ -434,7 +477,7 @@
     "longitude": -94.68932275363001,
     "category": "Building",
     "description": "Located just beyond the entrance to the Arboretum & Botanical Gardens, the environmental education visitors center is the starting point for guests and includes its own seasonal plantings and pots.",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/ecc.jpg"
   },
   {
     "name": "Corazon II",
@@ -450,7 +493,7 @@
     "longitude": -94.68859314420217,
     "category": "Building",
     "description": "",
-    "imageURL": null
+    "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/east-kiosk-entrance.jpg"
   },
   {
   "name": "Barton P. Cohen Overlook",
@@ -477,7 +520,7 @@
   "longitude": -94.69008111912474,
   "category": "Seat",
   "description": "Gift of Bill and Patti Ritter",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/retreat.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/retreat.jpg"
   },
 
 
@@ -506,7 +549,7 @@
   "longitude": -94.68948159714789,
   "category": "POI",
   "description": "Enjoy quietly. Dogs prohibited in this area. Please share your sightings with us.",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/bird-watch.jpg"
   },
 
 
@@ -553,7 +596,7 @@
   "longitude": -94.6937807683514,
   "category": "POI",
   "description": "This ecosystem lies in the floodplain created by Wolf Creek, which flows through the Arboretum. Floodplains are low areas next to streams and rivers that are created as the moving water erodes sideways or \"meanders\". Water moves fastest on the outside of the meanders (curves), which causes erosion and steep banks. On the inside of the curves, slower moving water drops sediments that cause sand, mud and gravel bars. The floodplain will experience flooding in times of extremely heavy rainfall or runoff. Here you will see moisture-loving trees such as the Sycamore and Eastern Cottonwood.",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/riparian-woodland.jpg"
   },
 
   {
@@ -591,7 +634,7 @@
   "longitude": -94.69251280150915,
   "category": "POI",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/council-ring.jpg"
   },
 
 
@@ -620,7 +663,7 @@
   "longitude": -94.69247593250881,
   "category": "POI",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/childrens-hill.jpg"
   },
 
 
@@ -645,11 +688,11 @@
 
 
   {
-  "name": "Serenity Point",
+  "name": "Margie's Serenity Point",
   "latitude": 38.80026781829516,
   "longitude": -94.69187392958401,
   "category": "Seat",
-  "description": "",
+  "description": "In Memory of Margie Engelkemier and to and to honor the arboretum volunteers. Dedicated July 2011. Given by the Engelkemier Family and Friends of the Arboretum.",
   "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/serenity-point.jpg"
   },
 
@@ -660,7 +703,7 @@
   "longitude": -94.69130974340258,
   "category": "POI",
   "description": "Created by Chief Lee Yellow Eyes in cooperation with the traditional Southern Cheyenne Indian Nation. Dedicated November 19, 2001",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/medicine-wheel-notes.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/medicine-wheel.jpg"
   },
 
   {
@@ -679,7 +722,7 @@
   "longitude": -94.69142760631918,
   "category": "Garden",
   "description": "Donated by Dick and Georgia Erickson, August 1996.",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/erickson-water-garden.jpg"
   },
 
 
@@ -719,7 +762,7 @@
   "longitude": -94.69052089966425,
   "category": "Seat",
   "description": "A gift from Chuch and Karen Haake. Dedicated July 2011.",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/haake-celecration-terrace.jpg"
   },
 
 
@@ -729,7 +772,7 @@
   "longitude": -94.69054196012767,
   "category": "POI",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/lakeside-amphitheater.jpg"
   },
 
 
@@ -1059,7 +1102,7 @@
   "longitude": -94.69086350455446,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/allies-glade.jpg"
   },
 
 
@@ -1339,7 +1382,7 @@
   "longitude": -94.68973967739207,
   "category": "Art Installation",
   "description": "By Elliott Carlson, 2009.",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/two-frogs.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/two-frogs.jpg"
   },
 
   {
@@ -1348,7 +1391,7 @@
   "longitude": -94.69147417868631,
   "category": "Art Installation",
   "description": "By Tom Corbin, 2009.",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/jazz-i.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/jazz-i.jpg"
   },
 
   {
@@ -1357,7 +1400,7 @@
   "longitude": -94.69127108334212,
   "category": "Art Installation",
   "description": "By Tom Corbin, 2009.",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/jazz-ii.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/jazz-ii.jpg"
   },
 
   {
@@ -1366,7 +1409,7 @@
   "longitude": -94.64146038325725,
   "category": "Art Installation",
   "description": "By Dennis Smith, 2009.",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/soaring.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/soaring.jpg"
   },
 
   {
@@ -1375,7 +1418,7 @@
   "longitude": -94.71002736933281,
   "category": "Art Installation",
   "description": "By Devin Laurence Field. Dedicated 2016.",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/hybrid-circie.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/hybrid-circie.jpg"
   },
 
   {
@@ -1384,7 +1427,7 @@
   "longitude": -94.67819292750018,
   "category": "Art Installation",
   "description": "By Allen Wynn",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/sunflower.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/sunflower.jpg"
   },
   
   {
@@ -1420,7 +1463,7 @@
   "longitude": -94.70286361672433,
   "category": "Shop",
   "description": "Vic\u2019s General Store, Alex + Emily\u2019s Ice Cream Parlor, Ben\u2019s Bank, Pat\u2019s Photography Parlor, Ray\u2019s Barbershop, John\u2019s Blacksmith Shop",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/mainstreet-shops.jpg"
   },
   
   {
@@ -1429,7 +1472,7 @@
   "longitude": -94.70273,
   "category": "Building",
   "description": "Stop by and watch and visit with blacksmiths working with a forge.",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/johns-blacksmith.jpg"
   },
 
   {
@@ -1438,7 +1481,7 @@
   "longitude": -94.70305,
   "category": "POI",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/mackenzies-island.jpg"
   },
 
   {
@@ -1483,7 +1526,7 @@
   "longitude": -94.70461,
   "category": "Building",
   "description": "",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/kanza-roundhouse.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/kanza-roundhouse.jpg"
   },
 
 
@@ -1493,7 +1536,7 @@
   "longitude": -94.7044842821503,
   "category": "Art Installation",
   "description": "",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/bison.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/bison.jpg"
   },
 
   {
@@ -1511,7 +1554,7 @@
   "longitude": -94.70369448635574,
   "category": "POI",
   "description": "",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/windmill.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/windmill.jpg"
   },
 
   {
@@ -1565,7 +1608,7 @@
   "longitude": -94.70445823639488,
   "category": "Building",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/mine-shack.jpg"
   },
 
   {
@@ -1574,7 +1617,7 @@
   "longitude": -94.70390648247228,
   "category": "Building",
   "description": "",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/helens-schoolhouse.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/helens-schoolhouse.jpg"
   },
 
   {
@@ -1583,7 +1626,7 @@
   "longitude": -94.70400569688513,
   "category": "Garden",
   "description": "",
-  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/50th-garden.jpeg"
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/50th-garden.jpg"
   },
 
   {
@@ -1601,7 +1644,7 @@
   "longitude": -94.70438351399828,
   "category": "Playground",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/morgans-playground.jpg"
   },
 
   {
@@ -1610,7 +1653,7 @@
   "longitude": -94.70462561164604,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/prairie-pavillion.jpg"
   },
 
   {
@@ -1619,7 +1662,7 @@
   "longitude": -94.70351424332267,
   "category": "Animals",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/georgias-chickencoop.jpg"
   },
 
   {
@@ -1628,7 +1671,7 @@
   "longitude": -94.7027515983502,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/gayles-exploration-outpost.jpg"
   },
 
   {
@@ -1637,7 +1680,7 @@
   "longitude": -94.70284407229947,
   "category": "Playground",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/prairie-playground.jpg"
   },
 
   {
@@ -1664,7 +1707,7 @@
   "longitude": -94.70144394264041,
   "category": "Seat",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/friends-plaza.jpg"
   },
 
   {
@@ -1718,7 +1761,7 @@
   "longitude": -94.70136689349755,
   "category": "Garden",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/koi-pond.jpg"
   },
 
   {
@@ -1754,7 +1797,7 @@
   "longitude": -94.70218274400989,
   "category": "Animals",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/brians-turkeycoop.jpg"
   },
 
   {
@@ -1772,7 +1815,7 @@
   "longitude": -94.70176813402195,
   "category": "Garden",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/master-garden.jpg"
   },
 
   {
@@ -1853,7 +1896,7 @@
   "longitude": -94.70151126682775,
   "category": "Building",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/draft-horse-depot.jpg"
   },
 
   {
@@ -1889,7 +1932,7 @@
   "longitude": -94.70221930119254,
   "category": "Playground",
   "description": "",
-  "imageURL": null
+  "imageURL": "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/play-barn.jpg"
   },
   
   {
