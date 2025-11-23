@@ -1,5 +1,38 @@
 [
   {
+    "latitude" : 38.79626571512814,
+    "longitude" : -94.68829888892598,
+    "description" : "",
+    "category" : "Seat",
+    "imageURL" : "",
+    "name" : "Stone Bench"
+  },
+  {
+    "latitude" : 38.79417610911536,
+    "longitude" : -94.7001288051769,
+    "description" : "",
+    "category" : "POI",
+    "imageURL" : "",
+    "name" : "West Falls"
+  },
+  {
+    "name" : "Lone Oak Falls",
+    "longitude" : -94.69665448942084,
+    "description" : "",
+    "latitude" : 38.792659866115905,
+    "category" : "POI",
+    "imageURL" : ""
+  },
+  {
+    "latitude" : 38.79629,
+    "name" : "Old Duck Pond",
+    "category" : "POI",
+    "imageURL" : "",
+    "longitude" : -94.69925,
+    "description" : ""
+  },
+
+  {
     "latitude" : 38.7952358303363,
     "name" : "Shortcut",
     "category" : "POI",
@@ -15,6 +48,14 @@
     "imageURL" : "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/dry-oak-hickory.jpg",
     "longitude" : -94.68849035774788,
     "description" : "The Dry Oak-Hickory forest is a typical ecosystem for this area, as well as much of eastern and central North America. At the Arboretum, it is found any the north side of Wolf Creek above the floodplain and also the higher areas south of Wolf Creek where the soil is dries than in the floodplain. Post Oak, Black Oak, and Shagbark Hickory, the dominant frees here are examples of \"deciduous\" trees, meaning they lose their leaves to the fall and winter. By contrast, \"evergreen\" trees, such as cedar, pine, and spruce stay green year-round. The Eastern Red Cedar is the only evergreen tree native to Kansas."
+  },
+    {
+    "latitude" : 38.795398362957485,
+    "name" : "Wooded Draws",
+    "category" : "POI",
+    "imageURL" : "https://pub-72189a9fcbe14795a4c931768d96e8a4.r2.dev/wooded-draw.jpg",
+    "longitude" : -94.69084461591234,
+    "description" : "This ecosystem occurs south of Wolf Creek. A \"draw\", is a gully or drainage basin that carries water into a river or stream—such as Wolf Creek—during periods of heavy rainfall or runoff. There is a variety of vegetation growing within these draws, such as Rough Leaf Dogwood, Red Elm, Red Cedar and some prairie remnants including the Prickly Pear cactus. Also nearby are the limestone bluffs that are a major feature along the south side of Wolf Creek. Limestone lies beneath the soil throughout our region and was formed from the remains of marine life which fell to the bottom of a vast sea that covered this area around 300 million years ago."
   },
   
   {

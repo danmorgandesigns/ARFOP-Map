@@ -495,7 +495,7 @@ struct MapView: View {
         trailRoutes.removeAll()
         
         // List of trail files to load
-        let trailFiles = ["rocky-ridge", "whitetail-pass", "karens-path", "bluff-loop", "west-trail", "cottonwood-trail", "sculpture-garden-loop", "prairie-loop", "enchanted-forest-loop", "lower-meadow", "legacy-garden-path", "marder-garden-path", "ancillary-paths" ]
+        let trailFiles = ["rocky-ridge", "whitetail-pass", "karens-path", "bluff-loop", "west-trail", "cottonwood-trail", "sculpture-garden-loop", "prairie-loop", "enchanted-forest-loop", "lower-meadow", "legacy-garden-path", "marder-garden-path", "ancillary-paths", "cactus-meadow-loop", "central-prairie-access", "east-prairie-access", "east-prairie-alt", "east-prairie-segment", "prairie-shortcut-d", "prairie-shortcut-c", "prairie-shortcut-b", "prairie-shortcut-a", "service-trail", "west-prairie-access" ]
         
         for trailFile in trailFiles {
             let trails = parseGeoJSON(filename: trailFile)
